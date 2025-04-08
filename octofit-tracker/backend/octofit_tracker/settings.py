@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-b+bq2_*=_%-p!!mpkeors*i#5vo)q(!ch1d3w9!h93^az&peo(
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['curly-telegram-qjr9646xpq639g5j-8000.app.github.dev', 'localhost']
 
 
 # Application definition
